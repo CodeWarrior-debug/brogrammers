@@ -1,4 +1,8 @@
-
+@import url('http://fonts.cdnfonts.com/css/new-athena-unicode');
+@import url('http://fonts.cdnfonts.com/css/fearless');
+@import url('http://fonts.cdnfonts.com/css/');
+@import url('http://fonts.cdnfonts.com/css/');
+                
 
 .container{
     display: flex;
@@ -13,4 +17,17 @@
     padding: 2px;
     width:20%;
     text-align: center;
+}
+
+.one {
+    font-family: 'New Athena Unicode', sans-serif;
+}
+.two {
+    font-family: 'Fearless', sans-serif;
+}
+.three {
+    font-family: 'New Athena Unicode', sans-serif;
+}
+.four {
+    font-family: 'New Athena Unicode', sans-serif;
 }
